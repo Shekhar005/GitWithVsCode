@@ -5,7 +5,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 __pycache__/
-GitWithVsCode.git/Newfile_for_delete_test
+GitWithVsCode.git/Newfile_for_delete_test/
 # Other files and folders
 .settings/
 *.ig
